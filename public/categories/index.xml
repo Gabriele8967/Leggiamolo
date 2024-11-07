@@ -6,6 +6,7 @@
     <description>Recent content in Categories on leggiamolo</description>
     <generator>Hugo -- 0.137.0</generator>
     <language>it</language>
+    <copyright>Gabriele Cucinotta</copyright>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

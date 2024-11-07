@@ -1,14 +1,10 @@
 ---
 date : '2024-11-07T12:36:36+01:00'
 draft : false
-title : 'Primo'
+title : 'Mondo'
 cover:
-    image: Richard-Feynman.jpg
-    alt: "Questa è un immagine"
-    caption : "Questa è la caption"
+    image: Newyorker.jpg
+author : Benjamín Labatut
 ---
 
-# Primo titolo
-## Secondo titolo
-
-Paragrago
+# *Quando abbiamo smesso di capire il mondo*

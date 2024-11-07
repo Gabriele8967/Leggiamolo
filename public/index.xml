@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>leggiamolo</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on leggiamolo</description>
+    <generator>Hugo -- 0.137.0</generator>
+    <language>it</language>
+    <lastBuildDate>Thu, 07 Nov 2024 12:36:36 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mondo</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Thu, 07 Nov 2024 12:36:36 +0100</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;quando-abbiamo-smesso-di-capire-il-mondo&#34;&gt;&lt;em&gt;Quando abbiamo smesso di capire il mondo&lt;/em&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Secondo</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Thu, 07 Nov 2024 12:36:36 +0100</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terzo</title>
+      <link>//localhost:1313/posts/terzo/</link>
+      <pubDate>Thu, 07 Nov 2024 12:36:36 +0100</pubDate>
+      <guid>//localhost:1313/posts/terzo/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

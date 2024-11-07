@@ -13,22 +13,7 @@
       <link>//localhost:1313/posts/first/</link>
       <pubDate>Thu, 07 Nov 2024 12:36:36 +0100</pubDate>
       <guid>//localhost:1313/posts/first/</guid>
-      <description>&lt;h1 id=&#34;quando-abbiamo-smesso-di-capire-il-mondo&#34;&gt;Quando abbiamo smesso di capire il mondo&lt;/h1&gt;
-&lt;h3 id=&#34;di-benjamin-labatout&#34;&gt;di Benjamin Labatout&lt;/h3&gt;</description>
-    </item>
-    <item>
-      <title>Secondo</title>
-      <link>//localhost:1313/posts/second/</link>
-      <pubDate>Thu, 07 Nov 2024 12:36:36 +0100</pubDate>
-      <guid>//localhost:1313/posts/second/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Terzo</title>
-      <link>//localhost:1313/posts/terzo/</link>
-      <pubDate>Thu, 07 Nov 2024 12:36:36 +0100</pubDate>
-      <guid>//localhost:1313/posts/terzo/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;quando-abbiamo-smesso-di-capire-il-mondo&#34;&gt;Quando abbiamo smesso di capire il mondo&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>

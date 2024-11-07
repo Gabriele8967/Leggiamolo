@@ -7,4 +7,4 @@ cover:
 author : Benjamín Labatut
 ---
 
-# *Quando abbiamo smesso di capire il mondo*
+# Quando abbiamo smesso di capire il mondo

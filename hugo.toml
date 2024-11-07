@@ -1,0 +1,25 @@
+baseURL = ''
+languageCode = 'it'
+title = 'leggiamolo'
+theme = "PaperMod"
+
+[params]
+ShowBreadCrumbs = true
+
+ShowReadingTime = true
+
+responsiveImages = true  # Aggiungi questa linea per definire il parametro responsiveImages
+
+ShowPostNavLinks = true
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "archives"
+name = "archives"
+url = "/archives/"
+weight = 20
